@@ -1,0 +1,11 @@
+Package: aepi
+Type: Package
+Title: Analytical Epidemiology
+Version: 0.0.0.9000
+Date: 2015-09-08
+Author: Beau Benjamin Bruce <bbbruce@emory.edu>
+Maintainer: Beau Benjamin Bruce <bbbruce@emory.edu>
+Description: Collection of functions for analytical epidemiology
+License: GPL-3 for code, CC0 for data
+LazyData: TRUE
+Imports: BiasedUrn
