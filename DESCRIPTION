@@ -9,3 +9,5 @@ Description: Collection of functions for analytical epidemiology
 License: GPL-3 for code, CC0 for data
 LazyData: TRUE
 Imports: BiasedUrn
+Suggests: knitr
+VignetteBuilder: knitr
